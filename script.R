@@ -8,3 +8,5 @@ Run analysis
 Save Table (bold table)
 
 Save small figure
+
+Collaborator Julieth making a change
