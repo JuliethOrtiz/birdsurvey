@@ -1,8 +1,8 @@
-$ cat script.R
+
 # Analyze bird counts
 
 Read data file
 
-RUn analysis
+Run analysis
 
-$ git init
+Save Table
